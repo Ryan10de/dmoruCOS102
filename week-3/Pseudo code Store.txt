@@ -1,0 +1,5 @@
+Go into store 
+Look for Items to buy
+Put them into the cart
+Proceed to checkout
+
